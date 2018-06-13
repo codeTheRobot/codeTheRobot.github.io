@@ -1,0 +1,27 @@
+h2 {
+  color: grey;
+  font-family: sans-serif;
+  font-size: 70px;
+  text-align: center;
+  background-color: #333;
+  margin: 0px;
+}
+p {
+  color: #fff;
+  background-color: rgb(23, 77, 42);
+  font-size: 25px;
+}
+/* this is a comment is css */
+
+.title {
+  color: #999;
+  text-align: center;
+  background-color: #f3f3f3;
+}
+
+
+
+#index-intro p{
+  color: red;
+
+}
